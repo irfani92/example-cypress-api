@@ -1,0 +1,46 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2433
+END=2611
+title=Comment module Create comment should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2746
+END=2791
+title=Comment module Create comment should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=2570
+END=2838
+title=Comment module Create comment should return correct comments
+[CHAPTER]
+TIMEBASE=1/1000
+START=3080
+END=3107
+title=Comment module Create comment should be found in get post by id endpoint
+[CHAPTER]
+TIMEBASE=1/1000
+START=3096
+END=3135
+title=Comment module Create comment should be found in get all posts endpoint
+[CHAPTER]
+TIMEBASE=1/1000
+START=3140
+END=3176
+title=Comment module Delete comment should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=3186
+END=3215
+title=Comment module Delete comment should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=3214
+END=3246
+title=Comment module Delete comment should successfully delete comment
+[CHAPTER]
+TIMEBASE=1/1000
+START=3243
+END=3280
+title=Comment module Delete comment should not be found in detail post endpoint

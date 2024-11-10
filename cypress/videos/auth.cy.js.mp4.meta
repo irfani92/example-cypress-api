@@ -1,0 +1,46 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2126
+END=2185
+title=Auth module Register should return error messages for validation
+[CHAPTER]
+TIMEBASE=1/1000
+START=2212
+END=2246
+title=Auth module Register should return error message for invalid email format
+[CHAPTER]
+TIMEBASE=1/1000
+START=2242
+END=2281
+title=Auth module Register should return error message for invalid password format
+[CHAPTER]
+TIMEBASE=1/1000
+START=2233
+END=2322
+title=Auth module Register should successfully registered
+[CHAPTER]
+TIMEBASE=1/1000
+START=2387
+END=2413
+title=Auth module Register should return error because of duplicate email
+[CHAPTER]
+TIMEBASE=1/1000
+START=2350
+END=2440
+title=Auth module Login should return unauthorized on failed
+[CHAPTER]
+TIMEBASE=1/1000
+START=2451
+END=2531
+title=Auth module Login should return access token on success
+[CHAPTER]
+TIMEBASE=1/1000
+START=2466
+END=2613
+title=Auth module Me should return unauthorized when send no token
+[CHAPTER]
+TIMEBASE=1/1000
+START=2730
+END=2761
+title=Auth module Me should return correct current data

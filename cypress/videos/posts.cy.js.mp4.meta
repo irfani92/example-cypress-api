@@ -1,0 +1,81 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=1892
+END=2082
+title=Post module Create post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2240
+END=2273
+title=Post module Create post should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=2255
+END=2307
+title=Post module Create post should return correct post
+[CHAPTER]
+TIMEBASE=1/1000
+START=2329
+END=2361
+title=Post module Get all posts should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2146
+END=2394
+title=Post module Get all posts should return correct count and data
+[CHAPTER]
+TIMEBASE=1/1000
+START=2615
+END=2644
+title=Post module Get by ID should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2556
+END=2674
+title=Post module Get by ID should return correct data
+[CHAPTER]
+TIMEBASE=1/1000
+START=2767
+END=2793
+title=Post module Get by ID should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=2793
+END=2820
+title=Post module Update post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2826
+END=2848
+title=Post module Update post should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=2836
+END=2871
+title=Post module Update post should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=2864
+END=2906
+title=Post module Update post should return correct updated post
+[CHAPTER]
+TIMEBASE=1/1000
+START=2925
+END=2949
+title=Post module Delete post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=2948
+END=2974
+title=Post module Delete post should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=2975
+END=3001
+title=Post module Delete post should successfully remove the post
+[CHAPTER]
+TIMEBASE=1/1000
+START=2995
+END=3028
+title=Post module Delete post should not be found the deletede post

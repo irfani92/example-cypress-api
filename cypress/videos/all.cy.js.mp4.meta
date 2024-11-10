@@ -1,0 +1,171 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=4008
+END=4099
+title=Auth module Register should return error messages for validation
+[CHAPTER]
+TIMEBASE=1/1000
+START=4135
+END=4191
+title=Auth module Register should return error message for invalid email format
+[CHAPTER]
+TIMEBASE=1/1000
+START=4202
+END=4248
+title=Auth module Register should return error message for invalid password format
+[CHAPTER]
+TIMEBASE=1/1000
+START=4187
+END=4295
+title=Auth module Register should successfully registered
+[CHAPTER]
+TIMEBASE=1/1000
+START=4368
+END=4405
+title=Auth module Register should return error because of duplicate email
+[CHAPTER]
+TIMEBASE=1/1000
+START=4350
+END=4443
+title=Auth module Login should return unauthorized on failed
+[CHAPTER]
+TIMEBASE=1/1000
+START=4452
+END=4537
+title=Auth module Login should return access token on success
+[CHAPTER]
+TIMEBASE=1/1000
+START=4471
+END=4623
+title=Auth module Me should return unauthorized when send no token
+[CHAPTER]
+TIMEBASE=1/1000
+START=4725
+END=4776
+title=Auth module Me should return correct current data
+[CHAPTER]
+TIMEBASE=1/1000
+START=4592
+END=4828
+title=Post module Create post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=5024
+END=5065
+title=Post module Create post should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=5040
+END=5108
+title=Post module Create post should return correct post
+[CHAPTER]
+TIMEBASE=1/1000
+START=5147
+END=5177
+title=Post module Get all posts should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=4953
+END=5207
+title=Post module Get all posts should return correct count and data
+[CHAPTER]
+TIMEBASE=1/1000
+START=5412
+END=5464
+title=Post module Get by ID should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=5359
+END=5517
+title=Post module Get by ID should return correct data
+[CHAPTER]
+TIMEBASE=1/1000
+START=5645
+END=5676
+title=Post module Get by ID should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=5640
+END=5708
+title=Post module Update post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=5744
+END=5777
+title=Post module Update post should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=5758
+END=5811
+title=Post module Update post should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=5795
+END=5865
+title=Post module Update post should return correct updated post
+[CHAPTER]
+TIMEBASE=1/1000
+START=5907
+END=5937
+title=Post module Delete post should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=5918
+END=5968
+title=Post module Delete post should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=5980
+END=6018
+title=Post module Delete post should successfully remove the post
+[CHAPTER]
+TIMEBASE=1/1000
+START=5983
+END=6057
+title=Post module Delete post should not be found the deletede post
+[CHAPTER]
+TIMEBASE=1/1000
+START=5877
+END=6134
+title=Comment module Create comment should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=6326
+END=6393
+title=Comment module Create comment should return error validation messages
+[CHAPTER]
+TIMEBASE=1/1000
+START=5983
+END=6462
+title=Comment module Create comment should return correct comments
+[CHAPTER]
+TIMEBASE=1/1000
+START=6891
+END=6942
+title=Comment module Create comment should be found in get post by id endpoint
+[CHAPTER]
+TIMEBASE=1/1000
+START=6931
+END=6995
+title=Comment module Create comment should be found in get all posts endpoint
+[CHAPTER]
+TIMEBASE=1/1000
+START=6987
+END=7062
+title=Comment module Delete comment should return unauthorized
+[CHAPTER]
+TIMEBASE=1/1000
+START=7105
+END=7139
+title=Comment module Delete comment should return not found
+[CHAPTER]
+TIMEBASE=1/1000
+START=7141
+END=7174
+title=Comment module Delete comment should successfully delete comment
+[CHAPTER]
+TIMEBASE=1/1000
+START=7173
+END=7208
+title=Comment module Delete comment should not be found in detail post endpoint
